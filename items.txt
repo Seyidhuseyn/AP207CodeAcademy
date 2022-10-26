@@ -1,0 +1,1 @@
+bu items.txt faylidir.
