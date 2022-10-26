@@ -1,1 +1,0 @@
-bu users.txt faylidir.

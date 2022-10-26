@@ -1,1 +1,1 @@
-bu products faylidir.
+bu product.txt faylidir.
